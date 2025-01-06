@@ -1,3 +1,5 @@
+https://sat-forum.net/viewtopic.php?t=958&start=230
+
 https://premium-iptvpro.com/
 
 https://premium-iptvpro.com/client/cart.php?a=checkout&e=false
