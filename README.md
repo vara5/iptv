@@ -15,3 +15,4 @@ http://ky-iptv.com:25461/xmltv.php?username=3442959774&password=5997627898
 azmpt@aluimport1.com
 azmpt@aluimport2.com
 azmpt@aluimport3.com
+azmpt@aluimport4.com
