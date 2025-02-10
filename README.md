@@ -13,3 +13,5 @@ azmpt@aluimport2.com
 azmpt@aluimport3.com
 azmpt@aluimport4.com
 azmpt@aluimport5.com
+azmpt@aluimport6.com
+azmpt@aluimport7.com
