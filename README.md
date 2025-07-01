@@ -6,8 +6,7 @@ https://premium-iptvpro.com/client/cart.php?a=checkout&e=false
 
 https://tempmail.io/ru/
 
-http://ky-iptv.com:25461/xmltv.php?username=3783635966&password=7656985549
-
+http://ky-iptv.com:25461/xmltv.php?username=5859352953&password=3379245429
 azmpt@aluimport1.com
 azmpt@aluimport2.com
 azmpt@aluimport3.com
